@@ -10,7 +10,7 @@ const image = {uri: "https://avatarfiles.alphacoders.com/259/25909.png"}
 export default function Profile(){
     const myData = {
         name: "Esraa Farhat",
-        address: "Alex",
+        address: "Mansoura",
         mobile: "+2 012 345 6789",
         mail: "esraafarhat97@gmail.com",
         facebook: "esraa_farhat",
